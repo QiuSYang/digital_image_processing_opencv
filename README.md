@@ -1,0 +1,2 @@
+# digital_image_processing_opencv
+日常使用OpenCV进行数字图像处理学习积累。
